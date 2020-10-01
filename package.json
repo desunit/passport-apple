@@ -1,5 +1,5 @@
 {
-  "name": "@nicokaiser/passport-apple",
+  "name": "@desunit/passport-apple",
   "version": "0.2.1",
   "description": "Sign in with Apple strategy for Passport",
   "keywords": [
